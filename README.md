@@ -4,6 +4,7 @@
 Decisions:
 - Omar will look at the Munich data, and pursue Deep Segmentation.
 - Raza keep researching pursue Variational methods / 3D reconstruction.
+- Meeting will be at 2:30pm.
 
 Tomas should provide access to:
 - setup access to Google Maps pictures, Bing pictures.

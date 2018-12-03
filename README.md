@@ -11,3 +11,10 @@ Tomas should provide access to:
 - setup access to Munich data
 - setup access to LabelBox
 - turn in the IDP document
+
+
+2018.12.03
+
+Decisions:
+- Omar will work with UNet on Deep Image segmentation
+- Raza will pursue (maybe Deep) 3d reconstruction from RGB images. Research isnt complete, this week he will continue researching before commiting on one paper.

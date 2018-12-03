@@ -17,4 +17,4 @@ Tomas should provide access to:
 
 Decisions:
 - Omar will work with UNet on Deep Image segmentation
-- Raza will pursue (maybe Deep) 3d reconstruction from RGB images. Research isnt complete, this week he will continue researching before commiting on one paper.
+- Raza will pursue (maybe Deep) 3d reconstruction from RGB images.
